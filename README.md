@@ -7,9 +7,9 @@
 
 <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Front-end developer">
 
-- 🌱 I’m currently learning <a href="https://nextjs.org/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="matevos-grigoryan-343178314" height="30" width="40" /></a>
+- 🌱 I’m currently learning <a href="https://nextjs.org/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=AU6Wc7r56Fxz&format=png&color=000000" alt="matevos-grigoryan-343178314" height="40" width="40" /></a>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Matevos1993" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=12598&format=png&color=000000" alt="matevos-grigoryan-343178314" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Matevos1993" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" alt="matevos-grigoryan-343178314" height="40" width="40" /></a>
 
 - 📝 I regularly write articles on <a href="https://linkedin.com/in/matevos-grigoryan-343178314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matevos-grigoryan-343178314" height="30" width="40" /></a>
 
