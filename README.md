@@ -15,15 +15,15 @@
 <p><img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Front-end developer" width="450" align="left"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=matevos1993&show_icons=true&locale=en&layout=compact" alt="matevos1993" width="450"/></p>
 
 
-- 🌱 I’m currently learning <a href="https://nextjs.org/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=AU6Wc7r56Fxz&format=png&color=000000" alt="matevos-grigoryan-343178314" height="40" width="40" /></a>
+<p>- 🌱 I’m currently learning <a href="https://nextjs.org/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=AU6Wc7r56Fxz&format=png&color=000000" alt="matevos-grigoryan-343178314" height="40" width="40" /></a></p>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Matevos1993" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" alt="matevos-grigoryan-343178314" height="40" width="40" /></a>
+<p>- 👨‍💻 All of my projects are available at <a href="https://github.com/Matevos1993" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" alt="matevos-grigoryan-343178314" height="40" width="40" /></a></p>
 
-- 📝 I regularly write articles on <a href="https://linkedin.com/in/matevos-grigoryan-343178314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matevos-grigoryan-343178314" height="30" width="40" /></a>
+<p>- 📝 I regularly write articles on <a href="https://linkedin.com/in/matevos-grigoryan-343178314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matevos-grigoryan-343178314" height="30" width="40" /></a></p>
 
-- 💬 Ask me about <a href="#"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" align="center" width="40" height="40"></a>, <a href="#"><img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" align="center" width="40" height="40"></a>
+<p>- 💬 Ask me about <a href="#"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" align="center" width="40" height="40"></a>, <a href="#"><img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" align="center" width="40" height="40"></a></p>
 
-- 📫 How to reach me <a href="mailto:mat.grigoryan@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=AqmeMIaHAeDY&format=png&color=000000" alt="mail"  align="center" height="40" width="40"></a> or <a href="https://wa.me/436766877568" target="_blank"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="WhatsApp" height="40" width="40" align="center"></a>
+<p>- 📫 How to reach me <a href="mailto:mat.grigoryan@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=AqmeMIaHAeDY&format=png&color=000000" alt="mail"  align="center" height="40" width="40"></a> or <a href="https://wa.me/436766877568" target="_blank"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="WhatsApp" height="40" width="40" align="center"></a></p>
 
 
 <h3 align="left">Connect with me:</h3>
