@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on <a href="https://linkedin.com/in/matevos-grigoryan-343178314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matevos-grigoryan-343178314" height="30" width="40" /></a>
 
-- 💬 Ask me about <a href="#"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript"></a>, <a href="#"><img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React"></a>
+- 💬 Ask me about <a href="#"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" align="center" width="40" height="40"></a>, <a href="#"><img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" align="center" width="40" height="40"></a>
 
 - 📫 How to reach me <a href="mailto:mat.grigoryan@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=AqmeMIaHAeDY&format=png&color=000000" alt="mail"  align="center" height="40" width="40"></a> or <a href="tel:+436766877568"><img src="https://img.icons8.com/?size=100&id=wqTsYydyXBbo&format=png&color=000000" align="center" alt="mobile" height="40" width="40"></a>
 
