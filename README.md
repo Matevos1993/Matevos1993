@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript, React.js**
 
-- 📫 How to reach me **mat.grigoryan@gmail.com**
+- 📫 How to reach me **mat.grigoryan@gmail.com** btfont-whatsapp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
