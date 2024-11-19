@@ -15,7 +15,8 @@
 
 - 💬 Ask me about **JavaScript, React.js**
 
-- 📫 How to reach me <a href="mailto:mat.grigoryan@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=AqmeMIaHAeDY&format=png&color=000000" alt="mail"  align="center" height="40" width="40"></a> or <a href="tel:+436766877568" target="_blank"><img src="https://img.icons8.com/?size=100&id=wqTsYydyXBbo&format=png&color=000000" alt="mobile"  align="center" height="40" width="40"></a>
+- 📫 How to reach me <a href="mailto:mat.grigoryan@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=AqmeMIaHAeDY&format=png&color=000000" alt="mail"  align="center" height="40" width="40"></a> or <a href="tel:+436766877568"><img src="https://img.icons8.com/?size=100&id=wqTsYydyXBbo&format=png&color=000000" alt="mobile" height="40" width="40"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
