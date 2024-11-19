@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; width: 100%"><pre style="font-weight: 8">
+<div style="display: flex; justify-content: center"><pre style="font-weight: 8">
  __  __               ______   __                         
 /\ \/\ \  __         /\__  _\ /\ \                        
 \ \ \_\ \/\_\        \/_/\ \/ \ \/      ___ ___           
