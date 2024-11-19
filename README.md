@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning <a href="https://nextjs.org/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="matevos-grigoryan-343178314" height="30" width="40" /></a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Matevos1993](https://github.com/Matevos1993)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Matevos1993" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=12598&format=png&color=000000" alt="matevos-grigoryan-343178314" height="30" width="40" /></a>
 
 - 📝 I regularly write articles on <a href="https://linkedin.com/in/matevos-grigoryan-343178314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matevos-grigoryan-343178314" height="30" width="40" /></a>
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matevos-grigoryan-343178314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matevos-grigoryan-343178314" height="30" width="40" /></a>
-  <a href="https://www.xing.com/profile/Matevos_Grigoryan017478/web_profiles?expandNeffi=true" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/269-2699794_xing-icon-logo-black-and-white-xing-logo-svg.png" alt="matevos-grigoryan-343178314" height="30" width="40" /></a>
+  <a href="https://www.xing.com/profile/Matevos_Grigoryan017478/web_profiles?expandNeffi=true" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13979&format=png&color=000000" alt="matevos-grigoryan-343178314" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
