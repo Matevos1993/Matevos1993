@@ -12,9 +12,7 @@
                                                                                                                                   
 <h3 align="center">A passionate frontend developer from <img src="https://img.icons8.com/?size=100&id=15506&format=png&color=000000" alt="Austria" align="center" height="40"></h3>
 
-<p><img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Front-end developer" width="450" align="left">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=matevos1993&show_icons=true&locale=en&layout=compact" alt="matevos1993" width="450"/></p>
+<p><img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Front-end developer" width="450" align="left"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=matevos1993&show_icons=true&locale=en&layout=compact" alt="matevos1993" width="450"/></p>
 
 
 - 🌱 I’m currently learning <a href="https://nextjs.org/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=AU6Wc7r56Fxz&format=png&color=000000" alt="matevos-grigoryan-343178314" height="40" width="40" /></a>
