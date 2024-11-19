@@ -12,9 +12,9 @@
                                                                                                                                   
 <h3 align="center">A passionate frontend developer from <img src="https://img.icons8.com/?size=100&id=15506&format=png&color=000000" alt="Austria" align="center" height="40"></h3>
 
-<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Front-end developer" width="450" align="center">
+<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Front-end developer" width="450" align="left">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matevos1993" alt="matevos1993" style="width: 450;" /></a> </p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=matevos1993&show_icons=true&locale=en&layout=compact" alt="matevos1993" width="450"/>
 
 
 - 🌱 I’m currently learning <a href="https://nextjs.org/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=AU6Wc7r56Fxz&format=png&color=000000" alt="matevos-grigoryan-343178314" height="40" width="40" /></a>
@@ -39,8 +39,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matevos1993&label=Profile%20views&color=0e75b6&style=flat" alt="matevos1993"/> </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matevos1993&show_icons=true&locale=en&layout=compact" alt="matevos1993" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matevos1993" alt="matevos1993" style="width: 250;" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matevos1993&show_icons=true&locale=en" alt="matevos1993" /></p>
