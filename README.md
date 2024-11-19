@@ -10,7 +10,7 @@
                     ░░                                                                                                            
  </pre>                                                                                                                                  
                                                                                                                                   
-<h3 align="center">A passionate frontend developer from Austria</h3>
+<h3 align="center">A passionate frontend developer from <img src="https://img.icons8.com/?size=100&id=15506&format=png&color=000000" alt="Austria" align="center" height="40"></h3>
 
 <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Front-end developer">
 
