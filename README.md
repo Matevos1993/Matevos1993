@@ -15,7 +15,7 @@
 
 - 💬 Ask me about <a href="#"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" align="center" width="40" height="40"></a>, <a href="#"><img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" align="center" width="40" height="40"></a>
 
-- 📫 How to reach me <a href="mailto:mat.grigoryan@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=AqmeMIaHAeDY&format=png&color=000000" alt="mail"  align="center" height="40" width="40"></a> or <a href="tel:+436766877568"><img src="https://img.icons8.com/?size=100&id=wqTsYydyXBbo&format=png&color=000000" align="center" alt="mobile" height="40" width="40"></a>
+- 📫 How to reach me <a href="mailto:mat.grigoryan@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=AqmeMIaHAeDY&format=png&color=000000" alt="mail"  align="center" height="40" width="40"></a> or <a href="https://wa.me/436766877568" target="_blank"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="WhatsApp" height="40" width="40" align="center"></a>
 
 
 <h3 align="left">Connect with me:</h3>
