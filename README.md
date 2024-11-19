@@ -1,4 +1,4 @@
-<pre style="font-weight: 8">
+<div style="display: flex; justify-content: center; width: 100%"><pre style="font-weight: 8">
  __  __               ______   __                         
 /\ \/\ \  __         /\__  _\ /\ \                        
 \ \ \_\ \/\_\        \/_/\ \/ \ \/      ___ ___           
@@ -15,7 +15,7 @@
  \ \ \_/\ \/\ \L\.\_\ \ \_/\  __/\ \ \_/ |/\ \L\ \/\__, `\
   \ \_\\ \_\ \__/.\_\\ \__\ \____\\ \___/ \ \____/\/\____/
    \/_/ \/_/\/__/\/_/ \/__/\/____/ \/__/   \/___/  \/___/  
-</pre> 
+</pre></div>
                                                                                                                                   
 <h3 align="center">A passionate frontend developer from <img src="https://img.icons8.com/?size=100&id=15506&format=png&color=000000" alt="Austria" align="center" height="40"></h3>
 
