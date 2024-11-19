@@ -7,7 +7,7 @@
 
 <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Front-end developer">
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning <a href="https://nextjs.org/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="matevos-grigoryan-343178314" height="30" width="40" /></a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Matevos1993](https://github.com/Matevos1993)
 
