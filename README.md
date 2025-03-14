@@ -17,7 +17,7 @@
    \/_/ \/_/\/__/\/_/ \/__/\/____/ \/__/   \/___/  \/___/  
 </pre>
                                                                                                                                   
-<h3 align="center">A passionate frontend developer from <img src="https://img.icons8.com/?size=100&id=15506&format=png&color=000000" alt="Austria" align="center" height="40"></h3>
+<h3 align="center">A passionate Fullstack developer from <img src="https://img.icons8.com/?size=100&id=15506&format=png&color=000000" alt="Austria" align="center" height="40"></h3>
 
 <p><img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Front-end developer" width="500" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matevos1993&show_icons=true&locale=en&layout=compact" alt="matevos1993" width="500"/></p>
 <br>
